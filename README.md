@@ -22,21 +22,21 @@ I’ve worked on some exciting projects that you might find interesting:
 
 - **Arsenalmkg:** A MERN stack-based project for digital marketing solutions.
 - **Predict5:** A predictive analysis platform using the MERN stack.
-- **Dental Clinic:** A comprehensive MEAN stack application for dental management.
+- **Dental Clinic:** A comprehensive MERN stack application for dental management.
+- **Lumen:** A comprehensive MEAN stack application for e-learning management.
 
 ## 🚀 What I'm Exploring
 
 Currently diving deeper into:
 
 - **Rust & Golang:** Exploring these languages for building high-performance applications.
-- **Microsoft Power Platform:** Enhancing my skills in creating dynamic apps with Power Apps, Power Automate, and Power BI.
 
 ## 💬 Let's Connect
 
 I’m always open to collaboration, learning, and sharing knowledge. Feel free to reach out:
 
 - **LinkedIn:** [Soliheen Farooq Khan](https://in.linkedin.com/in/soliheen-farooq-khan-314757168)
-- **GitHub:** [My GitHub Profile](https://github.com/yourusername)
+- **GitHub:** [My GitHub Profile](https://github.com/khanSoliheen)
 
 ## 🏏 Fun Fact
 
