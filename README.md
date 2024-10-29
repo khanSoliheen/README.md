@@ -21,8 +21,8 @@ Hi there! I'm **Soliheen Farooq Khan**, a **Full-Stack Developer** and **Senior 
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)
 
 - **Backend:**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-  ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
+  ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)  
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)  
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=fff)
